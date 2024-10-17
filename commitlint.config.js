@@ -1,4 +1,3 @@
-// .commitlintrc.js
 /** @type {import('cz-git').UserConfig} */
 export default {
 	rules: {

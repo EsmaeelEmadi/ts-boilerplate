@@ -1,4 +1,3 @@
-// cz.config.js
 /** @type {import('cz-git').UserConfig['prompt']} */
 export default {
 	alias: { fd: "docs: fix typos" },
