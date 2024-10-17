@@ -8,7 +8,6 @@
 		"lint": "eslint . --fix",
 		"typecheck": "tsc --noEmit",
 		"precommit": "lint-staged",
-		"cm": "git-cz",
 		"release": "release-it"
 	},
 	"repository": {
