@@ -5,7 +5,7 @@
 	"type": "module",
 	"scripts": {
 		"prepare": "husky",
-		"lint": "eslint ./src/ --fix",
+		"lint": "eslint . --fix",
 		"typecheck": "tsc --noEmit",
 		"precommit": "lint-staged",
 		"cm": "git-cz",
